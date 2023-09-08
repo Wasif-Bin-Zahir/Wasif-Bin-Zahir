@@ -5,7 +5,7 @@
 
 Entrepreneur | Web Developer | Content Creator at Youtube
 
-Skills: REACT / JS / JAVA / VUE
+Skills: JS / React / VUE / PHP / Laraval
 
 - 🔭 I’m currently working on YouTube 
 - 💬 Ask me about Web Development 
